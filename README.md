@@ -1,3 +1,5 @@
+<a href=#><img src="contributions.svg"></a>
+
 <div>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
