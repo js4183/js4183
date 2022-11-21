@@ -18,8 +18,6 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 </div>
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인깃계정명&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 <br>
 <div>
 	<p>🛠Tools</p>
@@ -35,7 +33,10 @@
 <br>
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js4183"/>
+	#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js4183&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 </div>
+
 
 #### 기본 사용언어
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
