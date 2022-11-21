@@ -33,8 +33,6 @@
 <br>
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js4183"/>
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js4183&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 </div>
 
 
