@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 #### 서버환경
-<img src="https://img.shields.io/badge/Apache Tomcat 9.0-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apache Tomcat 8.5-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/> 
 
 #### 데이터베이스
