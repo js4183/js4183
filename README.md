@@ -1,3 +1,14 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=js4183&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=js4183&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
 <div>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
